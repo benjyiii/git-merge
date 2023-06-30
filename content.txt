@@ -3,5 +3,6 @@ colors
 - red
 - green
 - yellow
-- violet
-- orange
+- rainbow
+- black
+- white
